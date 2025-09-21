@@ -8,4 +8,4 @@ Repository untuk mata kuliah Pengantar Machine Learning - Salsha Geona - 2212300
 Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Pengantar Machine Learning** Semester Ganjil 2025/2026.
 
 ## Daftar Tugas
-- **Minggu 1:** [Setup Environment - Hello World]([https://github.com/SalshaGeona/221230059-Pengantar-ML/blob/main/Tugas_Minggu_1_Hello_Word.ipynb])
+- **Minggu 1:** [Setup Environment - Hello World](https://github.com/SalshaGeona/221230059-Pengantar-ML/blob/main/Tugas_Minggu_1_Hello_Word.ipynb)
